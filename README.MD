@@ -4,4 +4,4 @@
 ***"CONSISTENCY IS KEY"***
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=WhyGitHubb.WhyGitHubb&left_color=green&right_color=red)
+![Drops](https://visitor-badge.glitch.me/badge?page_id=WhyGitHubb.WhyGitHubb&left_color=black&right_color=white)
