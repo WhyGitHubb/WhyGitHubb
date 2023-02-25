@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... **the perfect sandwich maker**
 - 🤔 I’m looking for help with ... **making the perfect sandwich**
 - 💬 Ask me about ... **making the perfect sandwich**
-- 📫 How to reach me: ... the perfect sandwich
+- 📫 How to reach me: ... **contanct**
 - 😄 Pronouns: ... **sand/wich**
 - ⚡ Fun fact: ... **i think i like sandwiches**
 
