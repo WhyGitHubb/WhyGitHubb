@@ -1,17 +1,20 @@
 **About me**
 
--  Stupid ✅✅✅
+- 🔭 I’m currently working on ... making the perfect sandwich
+- 🌱 I’m currently learning ... making the perfect sandwich
+- 👯 I’m looking to collaborate on ... the perfect sandwich maker
+- 🤔 I’m looking for help with ... making the perfect sandwich
+- 💬 Ask me about ... making the perfect sandwich
+- 📫 How to reach me: ... contact
+- 😄 Pronouns: ... sand/wich
+- ⚡ Fun fact: ... i think i like sandwiches
 
--  Bad at programming ✅✅✅
-
--  Paste king, but Christ is king ✅✅✅
 
 
 
 
 
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=camelCaseAlt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="look at these numberss" />    
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=camelCaseAlt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="look at these numbers" />    
 
 
 
