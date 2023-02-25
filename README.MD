@@ -1,13 +1,13 @@
 **About me**
 
-- 🔭 I’m currently working on ... making the perfect sandwich
-- 🌱 I’m currently learning ... making the perfect sandwich
-- 👯 I’m looking to collaborate on ... the perfect sandwich maker
-- 🤔 I’m looking for help with ... making the perfect sandwich
-- 💬 Ask me about ... making the perfect sandwich
-- 📫 How to reach me: ... contact
-- 😄 Pronouns: ... sand/wich
-- ⚡ Fun fact: ... i think i like sandwiches
+- 🔭 I’m currently working on ... **making the perfect sandwich**
+- 🌱 I’m currently learning ...**making the perfect sandwich**
+- 👯 I’m looking to collaborate on ... **the perfect sandwich maker**
+- 🤔 I’m looking for help with ... **making the perfect sandwich**
+- 💬 Ask me about ... **making the perfect sandwich**
+- 📫 How to reach me: ... the perfect sandwich
+- 😄 Pronouns: ... **sand/wich**
+- ⚡ Fun fact: ... **i think i like sandwiches**
 
 
 
